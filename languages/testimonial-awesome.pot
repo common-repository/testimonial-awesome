@@ -1,0 +1,521 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Testimonial Awesome\n"
+"POT-Creation-Date: 2022-02-07 14:35+0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Rizki Akmanda <rizkiakmanda@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Language-Testimonial: themesawesome <admin@themesawesome.com>\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: _e;__;esc_html_e;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: js\n"
+"X-Poedit-SearchPathExcluded-1: .git\n"
+"X-Poedit-SearchPathExcluded-2: public/js\n"
+"X-Poedit-SearchPathExcluded-3: admin/js\n"
+
+#: elementor-widgets/testimonials/testimonial-control.php:13 testimonial-awesome-post-type.php:14
+msgid "Testimonials"
+msgstr ""
+
+#: elementor-widgets/testimonials/testimonial-control.php:36
+msgid "Post Setting"
+msgstr ""
+
+#: elementor-widgets/testimonials/testimonial-control.php:43
+msgid "Select Testimonial"
+msgstr ""
+
+#: elementor-widgets/testimonials/testimonial-control.php:47
+msgid "Select post order by (default to latest post)."
+msgstr ""
+
+#: elementor-widgets/testimonials/testimonial-control.php:59
+msgid "Title"
+msgstr ""
+
+#: elementor-widgets/testimonials/testimonial-control.php:69
+msgid ""
+"<p>In order to customize fonts, let&#39;s upgrade to pro</p><br /><a href=\"https://1.envato."
+"market/yddKb\" class=\"btn-buy\" target=\"_blank\">Upgrade to Pro</a>"
+msgstr ""
+
+#: elementor-widgets/testimonials/tpl/testimonial-block.php:50
+#: gutenberg-blocks/testimonial-block.php:55 testimonial-awesome.php:196
+msgid "Sorry You have set no html for this slug..."
+msgstr ""
+
+#: public/testimonial-styles/testimonial-style-8.php:36
+msgid "Next Slide"
+msgstr ""
+
+#: testimonial-awesome-ctrl.php:7 testimonial-awesome.php:105
+msgid "Shortcode"
+msgstr ""
+
+#: testimonial-awesome-ctrl.php:13
+msgid "Section Description"
+msgstr ""
+
+#: testimonial-awesome-ctrl.php:14
+msgid "Here, you can add some useful description for the fields below / above this text."
+msgstr ""
+
+#: testimonial-awesome-post-type.php:15
+msgid "Parent Testimonials:"
+msgstr ""
+
+#: testimonial-awesome-post-type.php:16
+msgid "All Testimonials"
+msgstr ""
+
+#: testimonial-awesome-post-type.php:17
+msgid "View Testimonials"
+msgstr ""
+
+#: testimonial-awesome-post-type.php:18
+msgid "Add New Testimonials"
+msgstr ""
+
+#: testimonial-awesome-post-type.php:19
+msgid "Add New"
+msgstr ""
+
+#: testimonial-awesome-post-type.php:20
+msgid "Edit Testimonials"
+msgstr ""
+
+#: testimonial-awesome-post-type.php:21
+msgid "Update Testimonials"
+msgstr ""
+
+#: testimonial-awesome-post-type.php:22
+msgid "Search Testimonials"
+msgstr ""
+
+#: testimonial-awesome-post-type.php:23
+msgid "Not found"
+msgstr ""
+
+#: testimonial-awesome-post-type.php:24
+msgid "Not found in Trash"
+msgstr ""
+
+#: testimonial-awesome-post-type.php:59
+msgid "Layout"
+msgstr ""
+
+#: testimonial-awesome-post-type.php:60
+msgid "Select Style"
+msgstr ""
+
+#: testimonial-awesome-post-type.php:71 testimonial-awesome-post-type.php:111
+msgid "Select Column"
+msgstr ""
+
+#: testimonial-awesome-post-type.php:94
+msgid "Padding"
+msgstr ""
+
+#: testimonial-awesome-post-type.php:138
+msgid "Select Column on Tablet"
+msgstr ""
+
+#: testimonial-awesome-post-type.php:160
+msgid "Select Column on Mobile"
+msgstr ""
+
+#: testimonial-awesome-post-type.php:182
+msgid "Space Items"
+msgstr ""
+
+#: testimonial-awesome-post-type.php:203
+msgid "Use Arrow Navigation"
+msgstr ""
+
+#: testimonial-awesome-post-type.php:220
+msgid "Use Pagination"
+msgstr ""
+
+#: testimonial-awesome-post-type.php:237
+msgid "Use Autoplay"
+msgstr ""
+
+#: testimonial-awesome-post-type.php:254
+msgid "Loop"
+msgstr ""
+
+#: testimonial-awesome-post-type.php:272
+msgid "Autoplay Speed (in Millisecond)"
+msgstr ""
+
+#: testimonial-awesome-post-type.php:287
+msgid "Content"
+msgstr ""
+
+#: testimonial-awesome-post-type.php:288
+msgid "Testimonial Items"
+msgstr ""
+
+#: testimonial-awesome-post-type.php:291
+msgid "Author Name"
+msgstr ""
+
+#: testimonial-awesome-post-type.php:295
+msgid "Author Job"
+msgstr ""
+
+#: testimonial-awesome-post-type.php:299
+msgid "Testimonial Quote"
+msgstr ""
+
+#: testimonial-awesome-post-type.php:303
+msgid "Testimonial Image"
+msgstr ""
+
+#: testimonial-awesome-post-type.php:306
+msgid "Author Description"
+msgstr ""
+
+#: testimonial-awesome-post-type.php:318
+msgid "Testimonial Social"
+msgstr ""
+
+#: testimonial-awesome-post-type.php:322
+msgid "Icon"
+msgstr ""
+
+#: testimonial-awesome-post-type.php:324
+msgid "Testimonial Link"
+msgstr ""
+
+#: testimonial-awesome-post-type.php:338
+msgid "Customize"
+msgstr ""
+
+#: testimonial-awesome-post-type.php:347
+msgid "Testimonial Awesome Post"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Container/Block_Container.php:243
+msgid "The parent must be 'array', 'string' or 'null'."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Container/Block_Container.php:272
+msgid "The position of inner blocks must be 'above' or 'below'."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Container/Block_Container.php:290
+msgid "The template must be an 'array' or 'null'."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Container/Block_Container.php:308
+msgid "The template lock must be 'all', 'insert', 'false' or 'null'."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Container/Block_Container.php:326
+msgid "The allowed blocks must be an 'array' or 'null'."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Container/Block_Container.php:393
+msgid "'render_callback' is required for the blocks."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Container/Block_Container.php:397
+msgid "'render_callback' must be a callable."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Container/Container.php:727
+msgid "General"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Container/Theme_Options_Container.php:207
+msgid "Settings saved."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Field/Footer_Scripts_Field.php:20
+msgid ""
+"If you need to add scripts to your footer (like Google Analytics tracking code), you should "
+"enter them in this box."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Field/Gravity_Form_Field.php:47
+msgid "No form"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Field/Header_Scripts_Field.php:20
+msgid "If you need to add scripts to your header, you should enter them here."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Libraries/Sidebar_Manager/Sidebar_Manager.php:69
+msgid "Please enter a name for the sidebar."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Libraries/Sidebar_Manager/Sidebar_Manager.php:72
+msgid "Unknown action attempted."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Libraries/Sidebar_Manager/Sidebar_Manager.php:102
+msgid "Sidebar with the same ID is already registered."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Libraries/Sidebar_Manager/Sidebar_Manager.php:112
+#: vendor/htmlburger/carbon-fields/core/Libraries/Sidebar_Manager/Sidebar_Manager.php:142
+msgid "Failed to update option storing your custom sidebars. Please contact support."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Libraries/Sidebar_Manager/Sidebar_Manager.php:137
+msgid "Sidebar not found."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Libraries/Sidebar_Manager/Sidebar_Manager.php:181
+msgid "Add Sidebar"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Libraries/Sidebar_Manager/Sidebar_Manager.php:182
+#: vendor/htmlburger/carbon-fields/packages/core/fields/sidebar/index.js:110
+msgid "Please enter the name of the new sidebar:"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/Libraries/Sidebar_Manager/Sidebar_Manager.php:183
+msgid "Are you sure you wish to remove this sidebar?"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/REST_API/Router.php:368
+msgid "No option names provided"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/REST_API/Router.php:379
+msgid "Theme Options updated."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/REST_API/Router.php:401
+msgid "Sorry, you are not allowed to read blocks of this post."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/REST_API/Router.php:411
+msgid "Sorry, you are not allowed to read blocks as this user."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/REST_API/Router.php:434
+msgid "The name of the block."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/REST_API/Router.php:439
+msgid "The content of the block."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/REST_API/Router.php:443
+msgid "ID of the post context."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/core/REST_API/Router.php:474
+msgid "Invalid block."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/packages/blocks/components/block-edit/index.js:214
+msgid "Show preview"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/packages/blocks/components/block-edit/index.js:215
+msgid "Hide preview"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/packages/blocks/components/block-edit/index.js:286
+msgid "Fields"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/packages/blocks/components/not-supported-field/index.js:14
+#, javascript-format
+msgid "Field of type '%s' is not supported in Gutenberg."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/packages/blocks/components/server-side-render/index.js:129
+#, javascript-format
+msgid "Error loading block: %s"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/packages/blocks/components/server-side-render/index.js:135
+msgid "No results found."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/packages/blocks/fields/datetime/index.js:59
+#: vendor/htmlburger/carbon-fields/packages/core/fields/date/index.js:15
+#: vendor/htmlburger/carbon-fields/packages/metaboxes/fields/datetime/index.js:9
+msgid "Select Date"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/packages/blocks/fields/file/index.js:15
+#: vendor/htmlburger/carbon-fields/packages/blocks/fields/file/index.js:17
+#: vendor/htmlburger/carbon-fields/packages/metaboxes/fields/file/index.js:10
+#: vendor/htmlburger/carbon-fields/packages/metaboxes/fields/file/index.js:12
+msgid "Select File"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/packages/blocks/fields/file/index.js:16
+#: vendor/htmlburger/carbon-fields/packages/metaboxes/fields/file/index.js:11
+msgid "Use File"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/packages/blocks/fields/image/index.js:10
+#: vendor/htmlburger/carbon-fields/packages/blocks/fields/image/index.js:12
+#: vendor/htmlburger/carbon-fields/packages/metaboxes/fields/image/index.js:10
+#: vendor/htmlburger/carbon-fields/packages/metaboxes/fields/image/index.js:12
+msgid "Select Image"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/packages/blocks/fields/image/index.js:11
+#: vendor/htmlburger/carbon-fields/packages/metaboxes/fields/image/index.js:11
+msgid "Use Image"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/packages/blocks/fields/media-gallery/index.js:15
+#: vendor/htmlburger/carbon-fields/packages/blocks/fields/media-gallery/index.js:17
+#: vendor/htmlburger/carbon-fields/packages/metaboxes/fields/media-gallery/index.js:15
+#: vendor/htmlburger/carbon-fields/packages/metaboxes/fields/media-gallery/index.js:17
+msgid "Select Attachments"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/packages/blocks/fields/media-gallery/index.js:16
+#: vendor/htmlburger/carbon-fields/packages/metaboxes/fields/media-gallery/index.js:16
+msgid "Use Attachments"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/packages/core/components/no-options/index.js:14
+msgid "No options."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/packages/core/components/search-input/index.js:30
+msgid "Search..."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/packages/core/fields/association/index.js:168
+#, javascript-format
+msgid "Maximum number of items reached (%s items)"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/packages/core/fields/association/index.js:266
+#, javascript-format
+msgid "Showing %1$d of %2$d results"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/packages/core/fields/color/index.js:92
+msgid "Select a color"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/packages/core/fields/complex/index.js:82
+#, javascript-format
+msgid "Add %s"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/packages/core/fields/complex/index.js:146
+#, javascript-format
+msgid "Couldn't create the label of group - %s"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/packages/core/fields/complex/index.js:344
+msgid "There are no entries yet."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/packages/core/fields/map/index.js:167
+msgid "Geocode was not successful for the following reason: "
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/packages/core/fields/oembed/index.js:188
+msgid "An error occurred while trying to fetch oembed preview."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/packages/core/fields/oembed/index.js:203
+msgid "Not Found"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/packages/core/fields/sidebar/index.js:58
+msgid "Please choose"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/packages/core/fields/sidebar/index.js:128
+msgid "An error occurred while trying to create the sidebar."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/packages/core/fields/time/index.js:16
+msgid "Select Time"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/packages/core/hocs/with-conditional-logic/index.js:69
+#, javascript-format
+msgid "An unknown field is used in condition - \"%s\""
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/packages/core/hocs/with-validation/required.js:20
+msgid "This field is required."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/packages/core/registry/index.js:40
+#, javascript-format
+msgid "%1$s type must be a string."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/packages/core/registry/index.js:46
+#, javascript-format
+msgid "%1$s %2$s is already registered."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/packages/core/registry/index.js:54
+msgid "The \"component\" param must be a function."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/packages/core/registry/index.js:79
+#, javascript-format
+msgid "The provided context isn't a valid one. Must be one of - %s ."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/packages/core/registry/index.js:89
+#, javascript-format
+msgid "%s %s isn't registered."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/packages/core/utils/api-fetch.js:19
+msgid "An error occured."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/packages/core/utils/fetch-attachments-data.js:24
+msgid "An error occurred while trying to fetch files data."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/packages/metaboxes/containers/index.js:55
+#, javascript-format
+msgid "Could not find DOM element for container \"%1$s\"."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/packages/metaboxes/monitors/conditional-display/conditions/base.js:52
+#, javascript-format
+msgid "Unsupported container condition comparison operator used - \"%1$s\"."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/packages/metaboxes/monitors/conditional-display/handler/index.js:55
+#, javascript-format
+msgid "Unsupported container condition - \"%1$s\"."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/packages/metaboxes/monitors/conditional-display/handler/index.js:73
+#, javascript-format
+msgid "Unsupported container condition relation used - \"%1$s\"."
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/templates/Container/common/options-page.php:43
+msgid "Actions"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/templates/Container/common/options-page.php:52
+msgid "Save Changes"
+msgstr ""
+
+#: vendor/htmlburger/carbon-fields/templates/Container/widget.php:4
+msgid "No options are available for this widget."
+msgstr ""
